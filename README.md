@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lovnyth Valcin</h1>
 <h3 align="center">A passionate frontend developer from Miami,FL</h3>
 
-- 🔭 I’m currently working on [CoPo](https://github.com/4GeeksAcademy/CoPo)
+- 🔭 I’m currently working on [My Weather App](https://github.com/lvalcin/weather-forecast-app)
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **lovnyth@gmail.com**
 
