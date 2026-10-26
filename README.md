@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Lovnyth Valcin</h1>
-<h3 align="center">A passionate frontend developer from Miami,FL</h3>
+<h3 align="center">Software developer building projects and learning full-stack development</h3>
 
-- 🔭 I’m currently working on [My Weather App](https://github.com/lvalcin/weather-forecast-app)
+- 🔭 I’m currently working on [My Travel Bucketlist](https://github.com/lvalcin/travel-bucket-list), a personal project to track destinations I want to visit.
 
-- 🌱 I’m currently learning **Python**
+- 💻 I enjoy building practical projects and learning new technologies through hands-on practice.
 
-- 📫 How to reach me **lovnyth@gmail.com**
+- 🌱 I’m currently practicing **HTML**, **CSS**, **Bootstrap**, **JavaScript**, and **Python**.
 
-- 📄 Know about my experiences [https://flowcv.com/resume/5tkc2fb8uta3](https://flowcv.com/resume/5tkc2fb8uta3)
+- 📫 Reach me at **lovnyth@gmail.com**
+
+- 📄 [View my resume](https://flowcv.com/resume/5tkc2fb8uta3)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
